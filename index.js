@@ -11,7 +11,7 @@ const soundEffects = [
     'https://static.theatom06.hackclub.app/bruh.mp3',
     'https://static.theatom06.hackclub.app/getout.mp3',
     'https://static.theatom06.hackclub.app/rizz.mp3',
-    'https://us-tuna-sounds-files.voicemod.net/4bc50678-dd8b-4b34-92d9-0bb75e9a7cc4-1744216180011.mp3'
+    'https://us-tuna-sounds-files.voicemod.net/4bc50678-dd8b-4b34-92d9-0bb75e9a7cc4-1744216180011.mp3' //Ruby Chan meme
 ]
 
 document.body.style.backgroundColor = 'pink';
