@@ -105,7 +105,7 @@ document.body.querySelectorAll('*').forEach((a) => {
             body: JSON.stringify({
                 messages: [{
                     role: 'user',
-                    content: `Convert this into ${randomStyle} language. Don't md formating or anything only plain text. Don't change the words YSWS and any snippets of code. Act like a ${role}. ${tagType}: ${a.innerText}`
+                    content: `Convert this into ${randomStyle} language. Don't md formating or anything only plain text. Don't change the words YSWS and any snippets of code and the emoji 🤡. Act like a ${role}. ${tagType}: ${a.innerText}`
                 }]
             })
         })
